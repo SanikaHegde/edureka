@@ -1,0 +1,19 @@
+{
+  "name": "edureka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crone": "^0.0.1",
+    "express": "^4.21.1",
+    "node-cron": "^3.0.3",
+    "ws": "^8.18.0"
+  },
+  "keywords": [],
+  "description": ""
+}
